@@ -8,4 +8,4 @@ Stay tuned — we’re cooking up something awesome (okay, maybe just a tiny foo
 
 <div align="center">
   <h3>-Group Photo-</h3>
-  <a href="https://github.com/TOH1004/EATTT/blob/6c32f5342114747061639957c9db947a3b4ac672/Members/Group%20Photo.jpg">Group Photo</a>
+  <img src="https://github.com/TOH1004/EATTT/blob/6c32f5342114747061639957c9db947a3b4ac672/Members/Group%20Photo.jpg" alt="Group Photo"/>
