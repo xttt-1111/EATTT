@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub Profile! 
+# 👋 Hi! My name is Angela Ngu Xin Yi!
 > 🌟 _**[Click here to visit my profile](https://github.com/angela127)**_ <br>
 > 🌟 *Turning ideas into reality through code and creativity!* 
 
